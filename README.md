@@ -1,1 +1,1 @@
-# deploy-with-cdk-for-terraform-lp-apps
+# deploy-with-cdk-for-terraform-lp-apps-petapp
